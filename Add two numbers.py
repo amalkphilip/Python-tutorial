@@ -1,3 +1,9 @@
+'''
+Author:Amal k philip
+Date:10-11-2024
+Description:sum of elements per location in a list
+'''
+
 lis1=[]
 lis2=[]
 n=int(input("enter no: Elements in list:"))
