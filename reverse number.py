@@ -1,3 +1,9 @@
+'''
+Author:Amal k philip
+Date:20-11-2024
+Description:Program to reverse a Integer.
+'''
+
 num=int(input("enter the number:"))
 
 def reverse(num):
