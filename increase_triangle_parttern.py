@@ -1,3 +1,8 @@
+"""
+Author:Amal k philip
+Date:22-11-2024
+Description:Program to construct patterns of stars (*), using a nested for loop.
+"""
 num=int(input("Enter the rows:"))
 for i in range(0,num):
     for k in range(0,i):
