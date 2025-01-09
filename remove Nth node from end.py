@@ -12,8 +12,4 @@ for i in list:
 print(main_list)
 node=int(input("enter the position from last for remove element:"))
 main_list.pop(-node)
-final_list=[]
-for i in main_list:
-    i=int(i)
-    final_list.append(i)
-print(final_list)
+print(main_list)
