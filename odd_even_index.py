@@ -1,5 +1,5 @@
 #Author : Amal k philip
-#Odd indexed and Even indexed charaters in the String.
+#Description : Odd indexed and Even indexed charaters in the String.
     s = input("Enter the String :")
     even_chars = ''
     odd_chars = ''
